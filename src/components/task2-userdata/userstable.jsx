@@ -62,7 +62,7 @@ const Userstable = () => {
 
   return (
     <>
-      <h2 style={{ textAlign: "center" }}>User Data</h2>
+      <h2 style={{ textAlign: "center" }}>Task 2 - User Data</h2>
       <Spin spinning={loading}>
         <Table
           columns={columns}
